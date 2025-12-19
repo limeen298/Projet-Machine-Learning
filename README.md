@@ -1,4 +1,4 @@
-# Projet-Machine-Learning
+# Projet - Machine Learning
 
 For our machine learning course, we chose to develop a model capable of predicting whether a specific URL is Legitimate or Phishing based on its features.
 
